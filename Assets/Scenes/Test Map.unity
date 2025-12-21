@@ -19114,7 +19114,7 @@ GameObject:
   - component: {fileID: 958498665}
   - component: {fileID: 958498664}
   m_Layer: 0
-  m_Name: 60d slope (1)
+  m_Name: 40d slope
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20603,7 +20603,7 @@ GameObject:
   - component: {fileID: 1384371323}
   - component: {fileID: 1384371322}
   m_Layer: 0
-  m_Name: 60d slope (2)
+  m_Name: 20d slope
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
